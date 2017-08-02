@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="21px" height="21px" viewBox="0 0 21 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.3 (7891) - http://www.bohemiancoding.com/sketch -->
+    <title>icon video</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="3a-default_template_summary_open-dataveyes-casestudy" sketch:type="MSArtboardGroup" transform="translate(-240.000000, -267.000000)">
+            <g id="nav-&gt;-summary" sketch:type="MSLayerGroup" transform="translate(0.000000, 87.000000)">
+                <g id="icon-video" transform="translate(241.000000, 181.000000)" sketch:type="MSShapeGroup">
+                    <circle id="Oval-9" stroke="#51566B" stroke-width="1.12" cx="9.5" cy="9.5" r="9.5"></circle>
+                    <path d="M8.23406337,12.2917342 C7.69870201,12.6016803 7.26470588,12.3489101 7.26470588,11.7305272 L7.26470588,7.26947276 C7.26470588,6.64958066 7.70000545,6.39907437 8.23406337,6.70826579 L12.0867922,8.93879303 C12.6221536,9.24873908 12.6208502,9.75201554 12.0867922,10.061207 L8.23406337,12.2917342 Z" id="Triangle-1" fill="#51566B"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
