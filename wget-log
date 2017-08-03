@@ -1,0 +1,484 @@
+
+--2017-08-03 07:05:35--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fdemo.cmssuperheroes.com%2Fthemeforest%2Fwp-recruitment-logistics%2Fnews%2F
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:05:36 ERROR 400: Bad Request.
+
+--2017-08-03 07:05:36--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fdemo.cmssuperheroes.com%2Fthemeforest%2Fwp-recruitment-logistics%2Fnews%2F&format=xml
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:05:36 ERROR 400: Bad Request.
+
+--2017-08-03 07:05:36--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/wp-login.php?action=lostpassword&redirect_to=http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/news/
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:05:36 ERROR 400: Bad Request.
+
+--2017-08-03 07:05:36--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/news/basket/
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:05:36 ERROR 400: Bad Request.
+
+--2017-08-03 07:05:36--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/author/admin/
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 ‘wget-log’
+2017-08-03 07:05:37 ERROR 400: Bad Request.
+
+--2017-08-03 07:05:37--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/2016/10/16/
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:05:37 ERROR 400: Bad Request.
+
+--2017-08-03 07:05:37--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/2016/10/15/
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:05:37 ERROR 400: Bad Request.
+
+--2017-08-03 07:05:37--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/2016/10/14/
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:05:38 ERROR 400: Bad Request.
+
+--2017-08-03 07:05:38--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/2016/10/20/
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:05:38 ERROR 400: Bad Request.
+
+--2017-08-03 07:05:38--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/2016/10/19/
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:05:38 ERROR 400: Bad Request.
+
+--2017-08-03 07:05:38--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/2016/10/18/
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:05:39 ERROR 400: Bad Request.
+
+--2017-08-03 07:05:39--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/wp-content/cache/autoptimize/js/autoptimize_f4b88f6aa273503048e444667dcf3fa6.js
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:05:39 ERROR 400: Bad Request.
+
+--2017-08-03 07:05:39--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/?p=184
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:05:40 ERROR 400: Bad Request.
+
+--2017-08-03 07:05:40--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fdemo.cmssuperheroes.com%2Fthemeforest%2Fwp-recruitment-logistics%2Fnews-2-column%2F
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:05:40 ERROR 400: Bad Request.
+
+--2017-08-03 07:05:40--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fdemo.cmssuperheroes.com%2Fthemeforest%2Fwp-recruitment-logistics%2Fnews-2-column%2F&format=xml
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:05:40 ERROR 400: Bad Request.
+
+--2017-08-03 07:05:40--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/wp-login.php?action=lostpassword&redirect_to=http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/news-2-column/
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:05:40 ERROR 400: Bad Request.
+
+--2017-08-03 07:05:40--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/news-2-column/basket/
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:05:41 ERROR 400: Bad Request.
+
+--2017-08-03 07:05:41--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/how-to-apply-on-the-go-and-on-mobile/feed/
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:05:44 ERROR 400: Bad Request.
+
+--2017-08-03 07:05:44--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/?p=79
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:05:47 ERROR 400: Bad Request.
+
+--2017-08-03 07:05:47--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fdemo.cmssuperheroes.com%2Fthemeforest%2Fwp-recruitment-logistics%2Fhow-to-apply-on-the-go-and-on-mobile%2F
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:05:48 ERROR 400: Bad Request.
+
+--2017-08-03 07:05:48--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fdemo.cmssuperheroes.com%2Fthemeforest%2Fwp-recruitment-logistics%2Fhow-to-apply-on-the-go-and-on-mobile%2F&format=xml
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:05:49 ERROR 400: Bad Request.
+
+--2017-08-03 07:05:49--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/wp-login.php?action=lostpassword&redirect_to=http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/how-to-apply-on-the-go-and-on-mobile/
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:05:49 ERROR 400: Bad Request.
+
+--2017-08-03 07:05:49--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/how-to-apply-on-the-go-and-on-mobile/basket/
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:05:50 ERROR 400: Bad Request.
+
+--2017-08-03 07:05:50--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/how-to-apply-on-the-go-and-on-mobile/?replytocom=4
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:05:50 ERROR 400: Bad Request.
+
+--2017-08-03 07:05:50--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/how-to-apply-on-the-go-and-on-mobile/?replytocom=5
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:05:51 ERROR 400: Bad Request.
+
+--2017-08-03 07:05:51--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/wp-content/cache/autoptimize/js/autoptimize_681d2a2b47bb1801a85e205adc5770b9.js
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:05:52 ERROR 400: Bad Request.
+
+--2017-08-03 07:05:52--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/wp-content/cache/autoptimize/css/autoptimize_e42b9d17e1f1408e53eceb69c10a1d93.css
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:05:52 ERROR 400: Bad Request.
+
+--2017-08-03 07:05:52--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/?p=23
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:05:52 ERROR 400: Bad Request.
+
+--2017-08-03 07:05:52--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fdemo.cmssuperheroes.com%2Fthemeforest%2Fwp-recruitment-logistics%2Fcontact%2F
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:05:53 ERROR 400: Bad Request.
+
+--2017-08-03 07:05:53--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fdemo.cmssuperheroes.com%2Fthemeforest%2Fwp-recruitment-logistics%2Fcontact%2F&format=xml
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:05:53 ERROR 400: Bad Request.
+
+--2017-08-03 07:05:53--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/wp-login.php?action=lostpassword&redirect_to=http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/contact/
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:05:53 ERROR 400: Bad Request.
+
+--2017-08-03 07:05:53--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/contact/basket/
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:05:54 ERROR 400: Bad Request.
+
+--2017-08-03 07:05:54--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/wp-content/cache/autoptimize/js/autoptimize_ecf35a6edfb76bf07b5f603a6c7da329.js
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:05:54 ERROR 400: Bad Request.
+
+--2017-08-03 07:05:54--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/page/2/?s=it&post_type=jobboard-post-jobs
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:05:55 ERROR 400: Bad Request.
+
+--2017-08-03 07:05:55--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/page/3/?s=it&post_type=jobboard-post-jobs
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:05:55 ERROR 400: Bad Request.
+
+--2017-08-03 07:05:55--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/wp-login.php?action=lostpassword&redirect_to=http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/job/web-designer/
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:05:55 ERROR 400: Bad Request.
+
+--2017-08-03 07:05:55--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/job/web-designer/basket/
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:05:56 ERROR 400: Bad Request.
+
+--2017-08-03 07:05:56--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/job/web-designer/
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:05:56 ERROR 400: Bad Request.
+
+--2017-08-03 07:05:56--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/location/cromer/
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:05:57 ERROR 400: Bad Request.
+
+--2017-08-03 07:05:57--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/%5C%22http:%5C/%5C/demo.cmssuperheroes.com%5C/themeforest%5C/wp-recruitment-logistics%5C/job%5C/web-designer%5C/%5C%22
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:05:57 ERROR 400: Bad Request.
+
+--2017-08-03 07:05:57--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/wp-login.php?action=lostpassword&redirect_to=http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/job/sport-and-outdoor-education-teacher/
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:05:57 ERROR 400: Bad Request.
+
+--2017-08-03 07:05:57--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/job/sport-and-outdoor-education-teacher/basket/
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:05:58 ERROR 400: Bad Request.
+
+--2017-08-03 07:05:58--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/job/geography-teacher-secondary-school/
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:05:58 ERROR 400: Bad Request.
+
+--2017-08-03 07:05:58--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/location/keswick/
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:05:59 ERROR 400: Bad Request.
+
+--2017-08-03 07:05:59--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/%5C%22http:%5C/%5C/demo.cmssuperheroes.com%5C/themeforest%5C/wp-recruitment-logistics%5C/job%5C/geography-teacher-secondary-school%5C/%5C%22
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:06:00 ERROR 400: Bad Request.
+
+--2017-08-03 07:06:00--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/job/web-analyst/
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:06:00 ERROR 400: Bad Request.
+
+--2017-08-03 07:06:00--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/location/merseyside/
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:06:01 ERROR 400: Bad Request.
+
+--2017-08-03 07:06:01--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/location/liverpool/
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:06:01 ERROR 400: Bad Request.
+
+--2017-08-03 07:06:01--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/job/accounting-technical-support/
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:06:01 ERROR 400: Bad Request.
+
+--2017-08-03 07:06:01--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/location/birmingham/
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:06:02 ERROR 400: Bad Request.
+
+--2017-08-03 07:06:02--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/%5C%22http:%5C/%5C/demo.cmssuperheroes.com%5C/themeforest%5C/wp-recruitment-logistics%5C/job%5C/structural-design-engineer%5C/%5C%22
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:06:02 ERROR 400: Bad Request.
+
+--2017-08-03 07:06:02--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/%5C%22http:%5C/%5C/demo.cmssuperheroes.com%5C/themeforest%5C/wp-recruitment-logistics%5C/job%5C/web-analyst%5C/%5C%22
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:06:02 ERROR 400: Bad Request.
+
+--2017-08-03 07:06:02--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/%5C%22http:%5C/%5C/demo.cmssuperheroes.com%5C/themeforest%5C/wp-recruitment-logistics%5C/job%5C/accounting-technical-support%5C/%5C%22
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:06:03 ERROR 400: Bad Request.
+
+--2017-08-03 07:06:03--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/wp-login.php?action=lostpassword&redirect_to=http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/job/marketing-analyst/
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:06:03 ERROR 400: Bad Request.
+
+--2017-08-03 07:06:03--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/job/marketing-analyst/basket/
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:06:04 ERROR 400: Bad Request.
+
+--2017-08-03 07:06:04--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/%5C%22http:%5C/%5C/demo.cmssuperheroes.com%5C/themeforest%5C/wp-recruitment-logistics%5C/job%5C/ux-design-director%5C/%5C%22
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:06:04 ERROR 400: Bad Request.
+
+--2017-08-03 07:06:04--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/?p=397
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:06:04 ERROR 400: Bad Request.
+
+--2017-08-03 07:06:04--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fdemo.cmssuperheroes.com%2Fthemeforest%2Fwp-recruitment-logistics%2Fjob%2Fhealth-care-assistant%2F
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:06:04 ERROR 400: Bad Request.
+
+--2017-08-03 07:06:04--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fdemo.cmssuperheroes.com%2Fthemeforest%2Fwp-recruitment-logistics%2Fjob%2Fhealth-care-assistant%2F&format=xml
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:06:05 ERROR 400: Bad Request.
+
+--2017-08-03 07:06:05--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/specialism/public-sector/
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:06:05 ERROR 400: Bad Request.
+
+--2017-08-03 07:06:05--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/location/england/feed/
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:06:10 ERROR 400: Bad Request.
+
+--2017-08-03 07:06:10--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/location/england/page/2/
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:06:11 ERROR 400: Bad Request.
+
+--2017-08-03 07:06:11--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/location/england/%5C%22http:%5C/%5C/demo.cmssuperheroes.com%5C/themeforest%5C/wp-recruitment-logistics%5C/job%5C/health-care-assistant%5C/%5C%22
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:06:11 ERROR 400: Bad Request.
+
+--2017-08-03 07:06:11--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/location/england/%5C%22http:%5C/%5C/demo.cmssuperheroes.com%5C/themeforest%5C/wp-recruitment-logistics%5C/type%5C/full-time%5C/%5C%22
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:06:11 ERROR 400: Bad Request.
+
+--2017-08-03 07:06:11--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/location/england/%5C%22http:%5C/%5C/demo.cmssuperheroes.com%5C/themeforest%5C/wp-recruitment-logistics%5C/job%5C/care-assistant-support-worker%5C/%5C%22
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:06:12 ERROR 400: Bad Request.
+
+--2017-08-03 07:06:12--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/location/england/%5C%22http:%5C/%5C/demo.cmssuperheroes.com%5C/themeforest%5C/wp-recruitment-logistics%5C/job%5C/renewable-energy-graduate%5C/%5C%22
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:06:12 ERROR 400: Bad Request.
+
+--2017-08-03 07:06:12--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/location/england/%5C%22http:%5C/%5C/demo.cmssuperheroes.com%5C/themeforest%5C/wp-recruitment-logistics%5C/type%5C/internship%5C/%5C%22
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:06:13 ERROR 400: Bad Request.
+
+--2017-08-03 07:06:13--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/location/england/%5C%22http:%5C/%5C/demo.cmssuperheroes.com%5C/themeforest%5C/wp-recruitment-logistics%5C/job%5C/graduate-sales-assistant%5C/%5C%22
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:06:13 ERROR 400: Bad Request.
+
+--2017-08-03 07:06:13--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/location/england/%5C%22http:%5C/%5C/demo.cmssuperheroes.com%5C/themeforest%5C/wp-recruitment-logistics%5C/job%5C/paint-sprayer%5C/%5C%22
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:06:13 ERROR 400: Bad Request.
+
+--2017-08-03 07:06:13--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/location/england/%5C%22http:%5C/%5C/demo.cmssuperheroes.com%5C/themeforest%5C/wp-recruitment-logistics%5C/job%5C/marketing-analyst%5C/%5C%22
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:06:14 ERROR 400: Bad Request.
+
+--2017-08-03 07:06:14--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/location/england/%5C%22http:%5C/%5C/demo.cmssuperheroes.com%5C/themeforest%5C/wp-recruitment-logistics%5C/job%5C/sport-and-outdoor-education-teacher%5C/%5C%22
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:06:14 ERROR 400: Bad Request.
+
+--2017-08-03 07:06:14--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/location/england/%5C%22http:%5C/%5C/demo.cmssuperheroes.com%5C/themeforest%5C/wp-recruitment-logistics%5C/job%5C/bar-team-member%5C/%5C%22
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:06:15 ERROR 400: Bad Request.
+
+--2017-08-03 07:06:15--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/location/england/%5C%22http:%5C/%5C/demo.cmssuperheroes.com%5C/themeforest%5C/wp-recruitment-logistics%5C/type%5C/part-time%5C/%5C%22
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:06:15 ERROR 400: Bad Request.
+
+--2017-08-03 07:06:15--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/location/england/%5C%22http:%5C/%5C/demo.cmssuperheroes.com%5C/themeforest%5C/wp-recruitment-logistics%5C/job%5C/digital-designer%5C/%5C%22
+Connecting to demo.cmssuperheroes.com (demo.cmssuperheroes.com)|109.199.113.202|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:06:16 ERROR 400: Bad Request.
+
+--2017-08-03 07:06:16--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/location/england/%5C%22http:%5C/%5C/demo.cmssuperheroes.com%5C/themeforest%5C/wp-recruitment-logistics%5C/job%5C/technical-aircraft-engineer%5C/%5C%22
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:06:17 ERROR 400: Bad Request.
+
+--2017-08-03 07:06:17--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/location/england/%5C%22http:%5C/%5C/demo.cmssuperheroes.com%5C/themeforest%5C/wp-recruitment-logistics%5C/job%5C/legal-cashier%5C/%5C%22
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:06:17 ERROR 400: Bad Request.
+
+--2017-08-03 07:06:17--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/location/england/%5C%22http:%5C/%5C/demo.cmssuperheroes.com%5C/themeforest%5C/wp-recruitment-logistics%5C/job%5C/home-appliance-engineer%5C/%5C%22
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:06:18 ERROR 400: Bad Request.
+
+--2017-08-03 07:06:18--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/location/london/feed/
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:06:18 ERROR 400: Bad Request.
+
+--2017-08-03 07:06:18--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/location/london/%5C%22http:%5C/%5C/demo.cmssuperheroes.com%5C/themeforest%5C/wp-recruitment-logistics%5C/job%5C/health-care-assistant%5C/%5C%22
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:06:20 ERROR 400: Bad Request.
+
+--2017-08-03 07:06:20--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/location/london/%5C%22http:%5C/%5C/demo.cmssuperheroes.com%5C/themeforest%5C/wp-recruitment-logistics%5C/type%5C/full-time%5C/%5C%22
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:06:21 ERROR 400: Bad Request.
+
+--2017-08-03 07:06:21--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/location/westminster/feed/
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:06:22 ERROR 400: Bad Request.
+
+--2017-08-03 07:06:22--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/location/westminster/%5C%22http:%5C/%5C/demo.cmssuperheroes.com%5C/themeforest%5C/wp-recruitment-logistics%5C/job%5C/health-care-assistant%5C/%5C%22
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:06:22 ERROR 400: Bad Request.
+
+--2017-08-03 07:06:22--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/location/westminster/%5C%22http:%5C/%5C/demo.cmssuperheroes.com%5C/themeforest%5C/wp-recruitment-logistics%5C/type%5C/full-time%5C/%5C%22
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:06:23 ERROR 400: Bad Request.
+
+--2017-08-03 07:06:23--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/?p=396
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:06:24 ERROR 400: Bad Request.
+
+--2017-08-03 07:06:24--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fdemo.cmssuperheroes.com%2Fthemeforest%2Fwp-recruitment-logistics%2Fjob%2Fcare-assistant-support-worker%2F
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:06:24 ERROR 400: Bad Request.
+
+--2017-08-03 07:06:24--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fdemo.cmssuperheroes.com%2Fthemeforest%2Fwp-recruitment-logistics%2Fjob%2Fcare-assistant-support-worker%2F&format=xml
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:06:24 ERROR 400: Bad Request.
+
+--2017-08-03 07:06:24--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/wp-login.php?action=lostpassword&redirect_to=http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/job/care-assistant-support-worker/
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:06:24 ERROR 400: Bad Request.
+
+--2017-08-03 07:06:24--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/job/care-assistant-support-worker/basket/
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:06:25 ERROR 400: Bad Request.
+
+--2017-08-03 07:06:25--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/location/hampshire/feed/
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:06:25 ERROR 400: Bad Request.
+
+--2017-08-03 07:06:25--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/location/hampshire/%5C%22http:%5C/%5C/demo.cmssuperheroes.com%5C/themeforest%5C/wp-recruitment-logistics%5C/job%5C/care-assistant-support-worker%5C/%5C%22
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:06:25 ERROR 400: Bad Request.
+
+--2017-08-03 07:06:25--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/location/hampshire/%5C%22http:%5C/%5C/demo.cmssuperheroes.com%5C/themeforest%5C/wp-recruitment-logistics%5C/type%5C/full-time%5C/%5C%22
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:06:26 ERROR 400: Bad Request.
+
+--2017-08-03 07:06:26--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/location/portsmouth/feed/
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:06:26 ERROR 400: Bad Request.
+
+--2017-08-03 07:06:26--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/location/portsmouth/%5C%22http:%5C/%5C/demo.cmssuperheroes.com%5C/themeforest%5C/wp-recruitment-logistics%5C/job%5C/care-assistant-support-worker%5C/%5C%22
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:06:26 ERROR 400: Bad Request.
+
+--2017-08-03 07:06:26--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/location/portsmouth/%5C%22http:%5C/%5C/demo.cmssuperheroes.com%5C/themeforest%5C/wp-recruitment-logistics%5C/type%5C/full-time%5C/%5C%22
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:06:27 ERROR 400: Bad Request.
+
+--2017-08-03 07:06:27--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/?p=392
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:06:27 ERROR 400: Bad Request.
+
+--2017-08-03 07:06:27--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fdemo.cmssuperheroes.com%2Fthemeforest%2Fwp-recruitment-logistics%2Fjob%2Frenewable-energy-graduate%2F
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 400 Bad Request
+2017-08-03 07:06:28 ERROR 400: Bad Request.
+
+--2017-08-03 07:06:28--  http://demo.cmssuperheroes.com/themeforest/wp-recruitment-logistics/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fdemo.cmssuperheroes.com%2Fthemeforest%2Fwp-recruitment-logistics%2Fjob%2Frenewable-energy-graduate%2F&format=xml
+Reusing existing connection to demo.cmssuperheroes.com:80.
+HTTP request sent, awaiting response... 

@@ -1,0 +1,60 @@
+jQuery(document).ready(function($) {
+    "use strict";
+    $('.jobs-carousel').owlCarousel({
+        loop: false,
+        nav:true,
+        items : 1,
+        margin: 30,
+        dots : false,
+        navText : ['<i class="fa fa-chevron-left"></i>','<i class="fa fa-chevron-right"></i>']
+    });
+
+    $('.jobs-carousel-interest').owlCarousel({
+        loop: true,
+        nav:true,
+        items : 3,
+        center: false,
+        dots : false,
+        margin: 30,
+        navText : ['<i class="fa fa-chevron-left"></i>','<i class="fa fa-chevron-right"></i>'],
+        responsive:{
+            0:{
+                items:1,
+            },
+            768:{
+                items:2,
+            },
+            992:{
+                items:2,
+            },
+            1200:{
+                items:3,
+            }
+        }
+    });
+
+    $('.jobs-carousel-recent').owlCarousel({
+        loop: true,
+        nav:true,
+        items : 4,
+        center: false,
+        dots : false,
+        margin: 30,
+        navText : ['<i class="fa fa-chevron-left"></i>','<i class="fa fa-chevron-right"></i>'],
+        responsive:{
+            0:{
+                items:1,
+            },
+            768:{
+                items:2,
+            },
+            992:{
+                items:3,
+            },
+            1200:{
+                items:4,
+            }
+        }
+    });
+
+})
